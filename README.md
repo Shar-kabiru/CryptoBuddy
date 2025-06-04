@@ -35,7 +35,7 @@ CryptoBuddy is a Python chatbot that provides basic cryptocurrency investment ad
     import nltk
     nltk.download('punkt')
 
-##Example Queries
+## Example Queries
 
 Which coin is the most profitable?
 
@@ -47,5 +47,6 @@ Is it safe to invest in Cardano?
 
 Hello
 
-⚠️ Disclaimer
+**⚠️ Disclaimer**
+
 This chatbot is for educational purposes only. It does not provide financial advice. Always do your own research before investing in cryptocurrencies.
